@@ -1,11 +1,11 @@
 # AI Coding Agent
 
-Welcome to the AI Coding Agent repository! This Streamlit-based web application provides a powerful visualization tool for generating and validating code solutions using advanced language models. By integrating cutting-edge technologies such as LangChain, Tavily, and OpenAI's GPT-4 model, our application assists users in solving a wide range of coding challenges.
+Welcome to the AI Coding Agent repository! This Streamlit-based web application provides a powerful visualization tool for generating and validating code solutions using advanced language models. By integrating cutting-edge technologies such as LangChain, Tavily, and OpenAI's GPT-4o model, our application assists users in solving a wide range of coding challenges.
 
 ## Features
 
 - **Intuitive Streamlit UI**: A clean, user-friendly interface with input fields and real-time process visualization.
-- **Advanced Code Generation**: Leverages OpenAI's GPT-4 model to produce high-quality code solutions.
+- **Advanced Code Generation**: Leverages OpenAI's GPT-4o model to produce high-quality code solutions.
 - **Robust Error Handling**: Implements sophisticated mechanisms to detect and address errors in generated code.
 - **Intelligent Web Search Integration**: Utilizes Tavily for supplementary web search results when encountering errors or requiring additional context.
 - **Efficient Session Management**: Maintains a comprehensive conversation history for improved context and user experience.
@@ -24,8 +24,8 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AiAgentGuy/ai-coding-agent.git
-   cd ai-coding-agent
+   git clone https://github.com/AiAgentGuy/ai-code-agent.git
+   cd ai-code-agent
    ```
 
 2. **Create and activate a virtual environment**:
